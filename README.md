@@ -1,12 +1,12 @@
 # Hi 👋, I'm João Santos
 
-I'm a Computer Engineering graduate from ESTG - Polytechnic of Porto. I am passionate about technology and development, with a focus on creating efficient and innovative solutions. Here you can find some of the projects I worked on during my studies and in my personal time.
+I'm a Computer Engineering (computer science) student from ESTG - Polytechnic of Porto. I am passionate about technology and development, with a passion towards design. Here you can find some of the projects I worked on during my studies and in my personal time.
 
 ---
 
 ## 🎓 ESTG - Polytechnic of Porto
 
-I completed my studies at the School of Technology and Management (ESTG) at the Polytechnic of Porto.
+I currently study at the School of Technology and Management (ESTG) at the Polytechnic of Porto.
 
 ---
 
@@ -14,10 +14,9 @@ I completed my studies at the School of Technology and Management (ESTG) at the 
 
 Feel free to reach out to me on social media or follow my work:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joaosantos)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/joaosantos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/joaosantos](https://www.linkedin.com/in/joao-santos-0023ab25b/))
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/joaosantos)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/joaosantos)
+
 
 ---
 
