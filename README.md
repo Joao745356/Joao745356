@@ -14,7 +14,7 @@ I currently study at the School of Technology and Management (ESTG) at the Polyt
 
 Feel free to reach out to me on social media or follow my work:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/joaosantos](https://www.linkedin.com/in/joao-santos-0023ab25b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joao-santos-0023ab25b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/joaosantos)
 
 
