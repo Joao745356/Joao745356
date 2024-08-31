@@ -42,5 +42,5 @@ Here are some of the programming languages and tools that I work with:
 
 ## 🔥 Popular Repositories
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=joaosantos&repo=project1)]([https://github.com/Joao745356/LP_2020_2021](https://github.com/Joao745356/LP_2020_2021))
+[![LP_2020_2021](https://github-readme-stats.vercel.app/api/pin/?username=Joao745356&repo=LP_2020_2021)](https://github.com/Joao745356/LP_2020_2021)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=joaosantos&repo=project2)](https://github.com/joaosantos/project2)
