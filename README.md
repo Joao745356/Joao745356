@@ -33,6 +33,8 @@ Here are some of the programming languages and tools that I have worked with:
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![XQuery](https://img.shields.io/badge/-XQuery-blue?style=flat-square)
+
 
 ---
 
