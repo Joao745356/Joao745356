@@ -22,13 +22,15 @@ Feel free to reach out to me on social media or follow my work:
 
 ## 🛠️ Languages and Tools
 
-Here are some of the programming languages and tools that I work with:
+Here are some of the programming languages and tools that I have worked with:
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 
