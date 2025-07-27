@@ -1,12 +1,12 @@
 # Hi 👋, I'm João Santos
 
-I'm a Computer Engineering (computer science) student from ESTG - Polytechnic of Porto. I am passionate about technology and development, with a passion towards design. Here you can find some of the projects I worked on during my studies and in my personal time.
+I'm a Computer Engineering (computer science) graduate from ESTG - Polytechnic of Porto. I am passionate about technology and development, with a passion towards design. Here you can find some of the projects I worked on during my studies and in my personal time.
 
 ---
 
 ## 🎓 ESTG - Polytechnic of Porto
 
-I currently study at the School of Technology and Management (ESTG) at the Polytechnic of Porto.
+I recently finished my studies at the School of Technology and Management (ESTG) at the Polytechnic of Porto.
 
 ---
 
